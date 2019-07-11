@@ -3,7 +3,7 @@ layout: post
 title: Noise Resonance Synthesizer in Max
 tags: [music, portfolio]
 comments: true
-bigimg: /img/posts/max-msp-synth.jpg
+bigimg: /img/posts/max-msp-synth.png
 ---
 
 This is one of the posts dedicated to old projects of mine that I deem as cool and worth sharing. Today I'll talk a bit about a class that I was taking in NCTU from [Master Program of Sound and Music Innovative Technologies](http://www.imu.nctu.edu.tw/imu/e-intro.php): **Computer Media: MAX/MSP** and my final project in it.

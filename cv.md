@@ -1,10 +1,16 @@
 ---
 layout: page
 title: "Curriculum Vitae"
+subtitle: "Long list of things I did"
 show-avatar: true
 ---
 
-## Education:
+Quick links: 
+<a href="#education" class="btn btn-primary">Education</a>
+<a href="#publications" class="btn btn-primary">Publications</a>
+<a href="#work" class="btn btn-primary">Work</a>
+
+## Education {#education}
 
 * **Doctor of Philosophy** (**in-progress** 2018-2021)  
 [Audio Signal Processing Lab](https://www.upf.edu/web/mtg/audio-signal-processing-lab), [Music Technology Group](https://www.upf.edu/web/mtg) as part of [MIP-Frontiers](https://mip-frontiers.eu/) training network  
@@ -31,7 +37,7 @@ Supervisor: [Chun-Jen Tsai](http://www.cs.nctu.edu.tw/cswebsite/members/detail/c
 Thesis: **Design and Implementation of Perceptual Audio Coding Models**  
 <small>Survey of different MP3 codecs (LAME, Fraunhofer, GoGo, Apple) and analysis of perceptual audio quality degradations for different genres. Proposal of MP3 codec that leverages genre-specific audio characteristics to tune its psychoacoustic model.</small>
 
-## Conference publications:
+## Conference publications {#publications}
 
 * **Da-TACOS: A Dataset for Cover Song Identification and Understanding**  
 Yesiler F., Tralie C., Correya A., Silva D. F., **Tovstogan P.**, Gómez E., and Serra X.  
@@ -54,7 +60,7 @@ Bogdanov, D., Won M., **Tovstogan P.**, Porter A., and Serra X.
 * NCTU Outstanding New Student Scholarship (Fall 2012)
 * NCTU Academic Achievement Award (Spring 2009, Fall 2009, Spring 2011, Fall 2012)
 
-## Work experience
+## Work experience {#work}
 
 * **Predoctoral Researcher** (09/2018 - present)  
   [Music Technology Group](https://www.upf.edu/web/mtg), [Universitat Pompeu Fabra](https://www.upf.edu/), Barcelona, Spain  

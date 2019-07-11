@@ -20,8 +20,8 @@ description: Personal website
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "cv"
   Blog: "blog"
+  CV: "cv"
 
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -64,13 +64,15 @@ footer-link-col: "#333333"
 author:
   name: Philip Tovstogan
 
+quote: Inspire and be inspired
+
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "philtgun@gmail.com"
+#  rss: true
+#  email: "philtgun@gmail.com"
 #  facebook: deanattali
   github: philtgun
   twitter: philtgun

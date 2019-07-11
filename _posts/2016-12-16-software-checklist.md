@@ -3,11 +3,11 @@ layout: post
 title: Software Checklist
 tags: [general, software]
 comments: true
-bigimg: /img/posts/software-checklist.jpg
+bigimg: 
+  - "/img/posts/software-checklist.jpg": "Photo by Liz West"
 ---
 
-Since I am working with different OS's and reinstalling them on different devices due to a multitude of reasons (e.g. Windows requires reinstalling every 2~3 years to be stable), I decided to compile a list of software and tools that are essential for me for comfortable usage and/or working. I don't think everybody needs all of them, but if you haven't heard of some, I recommend to take a look and give it a try. Who knows, maybe it will lead to "How could I live without it before!" moment. Cross-platformness is one of the important characteristics, so if not mentioned otherwise, it at least works on Windows, Mac, Ubuntu/Debian, and Android.
-
+Since I am working with different OS's and reinstalling them on different devices due to a multitude of reasons (e.g. Windows requires reinstalling every 2-3 years to be stable), I decided to compile a list of software and tools that are essential for me for comfortable usage and/or working. I don't think everybody needs all of them, but if you haven't heard of some, I recommend to take a look and give it a try. Who knows, maybe it will lead to "How could I live without it before!" moment. Cross-platformness is one of the important characteristics, so if not mentioned otherwise, it at least works on Windows, Mac, Ubuntu/Debian, and Android.
 
 ## Essentials
 
