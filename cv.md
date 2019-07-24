@@ -54,6 +54,7 @@ Bogdanov, D., Won M., **Tovstogan P.**, Porter A., and Serra X.
 
 ## Awards and Honors
 
+* Best Project for Music Streaming Services from [HAMR@ISMIR2018](https://labrosa.ee.columbia.edu/hamr_ismir2018/) (September 2018)
 * MSCA fellowship as part of the [MIP-Frontiers](https://mip-forntiers.eu/) training network (2018 - 2021)
 * NCTU Silver Bamboo Scholarship (Fall 2008 - Spring 2009)
 * NCTU Golden Bamboo Scholarship (Fall 2009 - Spring 2012, Spring 2013 - Fall 2013)
