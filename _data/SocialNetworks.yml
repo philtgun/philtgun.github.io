@@ -9,84 +9,59 @@
 facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
-  icon: "fa-facebook"
+  icon: "fab fa-facebook-f"
 
 github:
   name: "GitHub"
   baseURL: "https://github.com/"
-  icon: "fa-github"
+  icon: "fab fa-github"
 
 twitter:
   name: "Twitter"
   baseURL: "https://twitter.com/"
-  icon: "fa-twitter"
-
-reddit:
-  name: "Reddit"
-  baseURL: "https://reddit.com/u/"
-  icon: "fa-reddit"
+  icon: "fab fa-twitter"
 
 email:
   name: "Email me"
   baseURL: "mailto:"
-  icon: "fa-envelope"
+  icon: "fas fa-envelope"
 
 linkedin:
   name: "LinkedIn"
   baseURL: "https://linkedin.com/in/"
-  icon: "fa-linkedin"
-
-xing:
-  name: "Xing"
-  baseURL: "https://www.xing.com/profile/"
-  icon: "fa-xing"
+  icon: "fab fa-linkedin-in"
 
 stackoverflow:
   name: "StackOverflow"
   baseURL: "https://stackoverflow.com/users/"
   icon: "fa-stack-overflow"
 
-snapchat:
-  name: "Snapchat"
-  baseURL: "https://www.snapchat.com/add/"
-  icon: "fa-snapchat-ghost"
-
-instagram:
-  name: "Instagram"
-  baseURL: "https://www.instagram.com/"
-  icon: "fa-instagram"
-
 youtube:
   name: "YouTube"
-  baseURL: "https://www.youtube.com/"
-  icon: "fa-youtube"
+  baseURL: "https://www.youtube.com/channel/"
+  icon: "fab fa-youtube"
 
 spotify:
   name: "Spotify"
   baseURL: "https://open.spotify.com/user/"
-  icon: "fa-spotify"
+  icon: "fab fa-spotify"
 
 telephone:
   name: "Phone"
   baseURL: "tel:"
-  icon: "fa-phone"
+  icon: "fas fa-phone"
 
 rss:
   name: "RSS"
   baseURL: "{{ '/feed.xml' | relative_url }}"
-  icon: "fa-rss"
+  icon: "fas fa-rss"
 
-steam:
-  name: "Steam"
-  baseURL: "https://steamcommunity.com/id/"
-  icon: "fa-steam"
+googlescholar:
+  name: "Google Scholar"
+  baseURL: "https://scholar.google.es/citations?user="
+  icon: "fas fa-graduation-cap"
 
-twitch:
-  name: "Twitch"
-  baseURL: "https://www.twitch.tv/"
-  icon: "fa-twitch"
-
-yelp:
-  name: "Yelp"
-  baseURL: "https://{{ site.author.yelp }}.yelp.com"
-  icon: "fa-yelp"
+orcid:
+  name: "OrcID"
+  baseURL: "https://orcid.org/"
+  icon: "fab fa-orcid"

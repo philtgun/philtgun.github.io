@@ -20,8 +20,10 @@ description: Personal website
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "blog"
-  CV: "cv"
+  Blog: blog
+  About: cv-short
+  Publications: publications
+  CV: cv
 
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -73,21 +75,12 @@ quote: Inspire and be inspired
 social-network-links:
 #  rss: true
 #  email: "philtgun@gmail.com"
-#  facebook: deanattali
   github: philtgun
   twitter: philtgun
-#  reddit: yourname
   linkedin: philtgun
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-  youtube: channel/UCJLTBG_tTEtiZAkqGLXmpwQ
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+  googlescholar: zas3jJ0AAAAJ
+  orcid: 0000-0002-0889-7209
+  youtube: UCJLTBG_tTEtiZAkqGLXmpwQ
 
 # Select which share links to show in posts
 share-links-active:

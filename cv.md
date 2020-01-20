@@ -5,10 +5,10 @@ subtitle: "Long list of things I did"
 show-avatar: true
 ---
 
-Quick links: 
+<!-- Quick links: 
 <a href="#education" class="btn btn-primary">Education</a>
 <a href="#publications" class="btn btn-primary">Publications</a>
-<a href="#work" class="btn btn-primary">Work</a>
+<a href="#work" class="btn btn-primary">Work</a> -->
 
 ## Education {#education}
 
@@ -39,10 +39,10 @@ Thesis: **Design and Implementation of Perceptual Audio Coding Models**
 
 ## Conference publications {#publications}
 
-* **Da-TACOS: A Dataset for Cover Song Identification and Understanding**  
+* [**Da-TACOS: A Dataset for Cover Song Identification and Understanding**](https://mtg.github.io/da-tacos/)  
 Yesiler F., Tralie C., Correya A., Silva D. F., **Tovstogan P.**, Gómez E., and Serra X.  
 *In 20th International Society for Music Information Retrieval Conference (ISMIR 2019), Delft, The Netherlands*
-* [**The MTG-Jamendo Dataset for Automatic Music Tagging**](http://mtg.upf.edu/node/3957)  
+* [**The MTG-Jamendo Dataset for Automatic Music Tagging**](https://mtg.github.io/mtg-jamendo-dataset/)  
 Bogdanov, D., Won M., **Tovstogan P.**, Porter A., and Serra X.  
 *Machine Learning for Music Discovery Workshop, International Conference on Machine Learning (ICML 2019)*
 * [**Video Streaming Optimization Using Degradation Estimation with Unequal Error Protection**](https://ieeexplore.ieee.org/document/8050577)  
