@@ -10,7 +10,7 @@ To make up for the missed month, here is another post that finally came out of d
 
 Since forever I had this idea about creating and altering music or sound with just a wave of a hand. With more free time available after I finished my master's and reduced amount of procrastination, I set a goal to at least do some fun project that is related to this idea. And after [LEAP Motion](https://www.leapmotion.com/) controller was ordered and delivered to my door I had no excuses to postpone it any longer.
 
-For my first proof-of-concept, I decided to make a simple synthesizer that will take input from LEAP and use the distance to hand as one parameter to generate simple sound. So here I present to you simple tutorial on how to do integrate LEAP as a controller into [PureData](https://puredata.info/) (PD). I will be using Ubuntu environment (Kubuntu 16.06), but I believe it can be easily done for other Debian-based distributions and not so easily, but still possible on other ones. Source code is [available on GitHub](https://github.com/philtgun/leap-chuck-demo) under GPLv3.
+For my first proof-of-concept, I decided to make a simple synthesizer that will take input from LEAP and use the distance to hand as one parameter to generate simple sound. So here I present to you simple tutorial on how to do integrate LEAP as a controller into [PureData](https://puredata.info/) (PD). I will be using Ubuntu environment (Kubuntu 16.06), but I believe it can be easily done for other Debian-based distributions and not so easily, but still possible on other ones. 
 
 {% include youtube.html id='VDKKXf6C7zQ' %}
 
@@ -110,7 +110,7 @@ If you are new to PD, the most important things here are *objects*. You can have
 
 ![PD simple patch](/img/leap/pd-osc.png){: .center-block :}
 
-So now we need to integrate LEAP into PD. Thankfully [Chikashi Miyama](http://www.chikashi.net/) have developed a [plugin](http://puredatajapan.info/?page_id=1514) that does exactly what we need. Unfortunately for me, there was no binary file for Linux available for download, only source code, so I had to compile it myself using [flext](https://github.com/grrrr/flext) written by [Thomas Grill](http://grrrr.org/). Fortunately for those of you on 64-bit Linux reading this post [here](/pd/leapmotion.pd_linux) you can download binary PD plugin.
+So now we need to integrate LEAP into PD. Thankfully [Chikashi Miyama](http://www.chikashi.net/) have developed a [plugin](http://puredatajapan.info/?page_id=1514) that does exactly what we need. Unfortunately for me, there was no binary file for Linux available for download, only source code, so I had to compile it myself using [flext](https://github.com/grrrr/flext) written by [Thomas Grill](http://grrrr.org/). Fortunately for those of you on 64-bit Linux reading this post [here](/files/pd/leapmotion.pd_linux) you can download binary PD plugin.
 
 Now you can try creating *leapmotion* object in PD. Make sure it is in the same directory as your new .pd file and insert an object (*Put* > *Object*). Type *leapmotion* and click somewhere else inside the window. 
 
@@ -128,7 +128,7 @@ LD_PRELOAD=/path/to/LeapSDK/lib/x64/libLeap.so puredata file.pd
 
 If you see no errors in console, like on the picture above, congratulations, everything is working now. If not, check if Leap is connected, service is running `systemctl status leapd`, troubleshoot it with *LeapControlPanel*. 
 
-Now we can create a [simple patch](/pd/leap-synth.pd) to change the pitch of sine wave with a wave of a hand. I will not go into details why it is designed in exactly this way, but I left some comments to understand the overall structure.
+Now we can create a [simple patch](/files/pd/leap-synth.pd) to change the pitch of sine wave with a wave of a hand. I will not go into details why it is designed in exactly this way, but I left some comments to understand the overall structure.
 
 ![Synth](/img/leap/pd-leap2.png){: .center-block :}
 

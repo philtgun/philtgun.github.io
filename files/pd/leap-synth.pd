@@ -1,0 +1,33 @@
+#N canvas 621 376 344 499 10;
+#X obj 109 116 leapmotion;
+#X obj 109 93 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X obj 109 28 tgl 30 0 empty empty empty 17 7 0 10 -262144 -1 -1 1
+1;
+#X obj 109 66 metro 50;
+#X obj 129 156 route hand;
+#X obj 130 189 route 0;
+#X obj 131 222 route palm_position;
+#X obj 130 255 unpack 0 0 0;
+#X obj 164 457 dac~;
+#X obj 179 418 osc~ 440;
+#X floatatom 178 387 5 0 0 0 - - -, f 5;
+#X obj 180 288 / 100;
+#X obj 178 353 * 110;
+#X obj 181 319 pow 1.5;
+#X floatatom 96 289 5 0 0 0 - - -, f 5;
+#X connect 0 1 4 0;
+#X connect 1 0 0 0;
+#X connect 2 0 3 0;
+#X connect 3 0 1 0;
+#X connect 4 0 5 0;
+#X connect 5 0 6 0;
+#X connect 6 0 7 0;
+#X connect 7 1 11 0;
+#X connect 7 1 14 0;
+#X connect 9 0 8 0;
+#X connect 9 0 8 1;
+#X connect 10 0 9 0;
+#X connect 11 0 13 0;
+#X connect 12 0 10 0;
+#X connect 13 0 12 0;
