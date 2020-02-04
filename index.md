@@ -2,7 +2,7 @@
 layout: page
 show-avatar: true
 title: Philip Tovstogan
-subtitle: Researcher, developer, musician, dungeon master, gamer
+subtitle: Researcher, developer, musician, game master
 bigimg: 
   - "/img/covers/montserrat.jpg": Montserrat, Barcelona, 2018
   - "/img/covers/neiwan.jpg": 內灣 (NeiWan), Taiwan, 2013
