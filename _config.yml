@@ -21,7 +21,6 @@ description: Personal website
 # List of links in the navigation bar
 navbar-links:
   Blog: blog
-  About: cv-short
   Publications: publications
   CV: cv
 
