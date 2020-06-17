@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Curriculum Vitae"
-subtitle: "Long list of things I did"
+subtitle: "Formal list of things I did"
 show-avatar: true
 ---
 
@@ -11,55 +11,58 @@ show-avatar: true
 <a href="#work" class="btn btn-primary">Work</a> -->
 
 ## Education {#education}
-
 * **Doctor of Philosophy** (**in-progress** 2018-2021)  
-[Audio Signal Processing Lab](https://www.upf.edu/web/mtg/audio-signal-processing-lab), [Music Technology Group](https://www.upf.edu/web/mtg) as part of [MIP-Frontiers](https://mip-frontiers.eu/) training network  
-[Universitat Pompeu Fabra](https://www.upf.edu/), Barcelona, Spain  
-Supervisors: [Xavier Serra](https://www.upf.edu/web/xavier-serra), [Dmitry Bogdanov](https://dbogdanov.github.io/)  
-Thesis: **Facilitating Interactive Music Exploration**  
-<small>Development of music exploration system using deep learning music autotaggers (genre, mood, themes) and reinforcement learning personalization</small>
+  [Audio Signal Processing Lab](https://www.upf.edu/web/mtg/audio-signal-processing-lab), [Music Technology Group](https://www.upf.edu/web/mtg) as part of [MIP-Frontiers](https://mip-frontiers.eu/) training network  
+  [Universitat Pompeu Fabra](https://www.upf.edu/), Barcelona, Spain  
+  Supervisors: [Xavier Serra](https://www.upf.edu/web/xavier-serra), [Dmitry Bogdanov](https://dbogdanov.github.io/)  
+  Thesis: **Facilitating Interactive Music Exploration**  
+  <small>Development of music exploration system using deep learning music autotaggers (genre, mood, themes) and reinforcement learning personalization.</small>
 * **Master of Science** (2017-2018), Grade: 9.0/10.0  
-[Master in Sound an Music Computing](https://www.upf.edu/web/smc), [Music Technology Group](https://www.upf.edu/web/mtg)  
-[Universitat Pompeu Fabra](https://www.upf.edu/), Barcelona, Spain  
-Supervisors: [Dmitry Bogdanov](https://dbogdanov.github.io/), [Alastair Porter](http://www.dtic.upf.edu/~aporter/)  
-Thesis: **Exploring Music Similarity with AcousticBrainz** ([Zenodo](https://zenodo.org/record/1479769#.XBpkMXVKhhE))  
-<small>Implementation, evaluation and improvement of existing state-of-the art music similarity algorithms in the context of [AcousticBrainz](https://acousticbrainz.org/)</small>
+  [Master in Sound an Music Computing](https://www.upf.edu/web/smc), [Music Technology Group](https://www.upf.edu/web/mtg)  
+  [Universitat Pompeu Fabra](https://www.upf.edu/), Barcelona, Spain  
+  Supervisors: [Dmitry Bogdanov](https://dbogdanov.github.io/), [Alastair Porter](http://www.dtic.upf.edu/~aporter/)  
+  Thesis: **Exploring Music Similarity with AcousticBrainz**  
+  <small>Implementation, evaluation and improvement of existing state-of-the art music similarity algorithms in the context of [AcousticBrainz](https://acousticbrainz.org/).</small>
 * **Master of Science** (2012-2015), GP: 4.1  
-[Electrical Engineering and Computer Science International Graduate Program](http://eecsigp.nctu.edu.tw/)  
-[National Chiao Tung University](http://www.nctu.edu.tw/en/), Hsinchu, Taiwan  
-Supervisor: [Hsu-Feng Hsiao](http://www.cs.nctu.edu.tw/cswebsite/members/detail/hillhsiao)  
-Thesis: **Optimization of Video Streaming Using Video Quality Estimation and LMRC Channel Coding**
-<small>Optimization of Layer-aligned Multi-priority rateless codes (LMRC) for H.265 video streaming over mobile networks. Development of probabilistic model to gauge impact of channel conditions on frame loss patterns.</small>
+  [Electrical Engineering and Computer Science International Graduate Program](http://eecsigp.nctu.edu.tw/)  
+  [National Chiao Tung University](http://www.nctu.edu.tw/en/), Hsinchu, Taiwan  
+  Supervisor: [Hsu-Feng Hsiao](http://www.cs.nctu.edu.tw/cswebsite/members/detail/hillhsiao)  
+  Thesis: **Optimization of Video Streaming Using Video Quality Estimation and LMRC Channel Coding**
+  <small>Optimization of Layer-aligned Multi-priority rateless codes (LMRC) for H.265 video streaming over mobile networks. Development of probabilistic model to gauge impact of channel conditions on frame loss patterns.</small>
 * **Bachelor of Science** (2008-2012), GP: 4.09  
-[Department of Computer Science](http://www.cs.nctu.edu.tw/cswebsite/), Multimedia & Network Engineering Program  
-[National Chiao Tung University](http://www.nctu.edu.tw/en/), Hsinchu, Taiwan  
-Supervisor: [Chun-Jen Tsai](http://www.cs.nctu.edu.tw/cswebsite/members/detail/cjtsai)  
-Thesis: **Design and Implementation of Perceptual Audio Coding Models**  
-<small>Survey of different MP3 codecs (LAME, Fraunhofer, GoGo, Apple) and analysis of perceptual audio quality degradations for different genres. Proposal of MP3 codec that leverages genre-specific audio characteristics to tune its psychoacoustic model.</small>
+  [Department of Computer Science](http://www.cs.nctu.edu.tw/cswebsite/), Multimedia & Network Engineering Program  
+  [National Chiao Tung University](http://www.nctu.edu.tw/en/), Hsinchu, Taiwan  
+  Supervisor: [Chun-Jen Tsai](http://www.cs.nctu.edu.tw/cswebsite/members/detail/cjtsai)  
+  Thesis: **Design and Implementation of Perceptual Audio Coding Models**  
+  <small>Survey of different MP3 codecs (LAME, Fraunhofer, GoGo, Apple) and analysis of perceptual audio quality degradations for different genres. Proposal of MP3 codec that leverages genre-specific audio characteristics to tune its psychoacoustic model.</small>
+
 
 ## Conference publications {#publications}
 
-* [**Da-TACOS: A Dataset for Cover Song Identification and Understanding**](https://mtg.github.io/da-tacos/)  
-Yesiler F., Tralie C., Correya A., Silva D. F., **Tovstogan P.**, Gómez E., and Serra X.  
-*In 20th International Society for Music Information Retrieval Conference (ISMIR 2019), Delft, The Netherlands*
-* [**The MTG-Jamendo Dataset for Automatic Music Tagging**](https://mtg.github.io/mtg-jamendo-dataset/)  
-Bogdanov, D., Won M., **Tovstogan P.**, Porter A., and Serra X.  
-*Machine Learning for Music Discovery Workshop, International Conference on Machine Learning (ICML 2019)*
-* [**Video Streaming Optimization Using Degradation Estimation with Unequal Error Protection**](https://ieeexplore.ieee.org/document/8050577)  
-**Tovstogan P.**, and Hsiao H. F.  
-*IEEE International Symposium on Circuits and Systems (ISCAS), Baltimore, MD*
-* **Cross-Layer Unequal Error Protection for Video Streaming over Wireless Broadband Networks**
-**Tovstogan P.**, Tseng K. J., and Hsiao H. F.  
-*Asia-Pacific Radio Science Conference, Taipei, Taiwan*
+* **Da-TACOS: A Dataset for Cover Song Identification and Understanding**  
+  Yesiler F., Tralie C., Correya A., Silva D. F., Tovstogan P., Gómez E., and Serra X.  
+  *In 20th International Society for Music Information Retrieval Conference (ISMIR), Delft, The Netherlands, 2019*
+* **MediaEval 2019: Emotion and Theme Recognition in Music using Jamendo**  
+  Bogdanov D., Porter A., Tovstogan P., Won M.
+  *MediaEval Benchmarking Initiative for Multimedia Evaluation Workshop, Sophia Antipolis, France, 2019*
+* **The MTG-Jamendo Dataset for Automatic Music Tagging**  
+  Bogdanov, D., Won M., Tovstogan P., Porter A., and Serra X.  
+  *Machine Learning for Music Discovery Workshop (ML4MD), International Conference on Machine Learning (ICML), Long Beach, CA, United States, 2019*
+* **Video Streaming Optimization Using Degradation Estimation with Unequal Error Protection**  
+  Tovstogan P., and Hsiao H. F.  
+  *IEEE International Symposium on Circuits and Systems (ISCAS), Baltimore, MD*
+* **Cross-Layer Unequal Error Protection for Video Streaming over Wireless Broadband Networks**  
+  Tovstogan P., Tseng K. J., and Hsiao H. F.  
+  *Asia-Pacific Radio Science Conference (AP-RASC), Taipei, Taiwan, 2014*
 
 ## Awards and Honors
 
 * Best Project for Music Streaming Services from [HAMR@ISMIR2018](https://labrosa.ee.columbia.edu/hamr_ismir2018/) (September 2018)
-* MSCA fellowship as part of the [MIP-Frontiers](https://mip-forntiers.eu/) training network (2018 - 2021)
-* NCTU Silver Bamboo Scholarship (Fall 2008 - Spring 2009)
-* NCTU Golden Bamboo Scholarship (Fall 2009 - Spring 2012, Spring 2013 - Fall 2013)
-* NCTU Outstanding New Student Scholarship (Fall 2012)
-* NCTU Academic Achievement Award (Spring 2009, Fall 2009, Spring 2011, Fall 2012)
+* Marie Skłodowska-Curie Fellowship as part of the [MIP-Frontiers](https://mip-frontiers.eu/) training network (2018 - 2021)
+* Silver Bamboo Scholarship (Fall 2008 - Spring 2009)
+* Golden Bamboo Scholarship (Fall 2009 - Spring 2012, Spring 2013 - Fall 2013)
+* Outstanding New Student Scholarship (Fall 2012)
+* Academic Achievement Award (Spring 2009, Fall 2009, Spring 2011, Fall 2012)
 
 ## Work experience {#work}
 
@@ -86,13 +89,13 @@ Bogdanov, D., Won M., **Tovstogan P.**, Porter A., and Serra X.
     * System Administration (Google Cloud, Atlassian JIRA + Confluence + BitBucket, Amazon Web Services, GitLab)
 
 * **Software Developer** (10/2014 - 01/2016)  
-  [Information and Communications Research Laboratories](https://www.itri.org.tw/eng/Content/Messagess/contents.aspx?SiteID=1&MmmID=617766557770066341), [Industrial Technology Research Institute](https://www.itri.org.tw/eng/), Hsinchu, Taiwan
+  Information and Communications Research Laboratories, [Industrial Technology Research Institute](https://www.itri.org.tw/eng/), Hsinchu, Taiwan
     * Research and development of various projects based on BeagleBone Black embedded system (Java, JS, Python, PHP)
     * Corporate bicycle rental system maintenance (LAMP stack), architecture design and development of next version of system (MEAN stack)
     * Architecture design and prototyping of video surveillance system for vehicles (big data optimizations, Apache Kafka, load balancing)
 
 * **Research Assistant** (9/2012 - 6/2014)  
-  [Network and Information Processing lab](https://www.cs.nctu.edu.tw/research/multimedia-communication): *Taiwan Government Project on WiMAX Mobile Surveillance System*, National Chiao Tung Universtiy, Hsinchu, Taiwan  
+  [Network and Information Processing lab](https://www.cs.nctu.edu.tw/research/multimedia-communication), National Chiao Tung Universtiy, Hsinchu, Taiwan  
     * H.264/H.265 channel coding research and library implementation with dynamic perceptual quality optimization (MATLAB, C++)
 
 * **Software Developer** (3/2011 - 2/2012)  
@@ -108,5 +111,5 @@ Bogdanov, D., Won M., **Tovstogan P.**, Porter A., and Serra X.
 * Russian - native
 * English - fluent
 * Mandarin - intermediate
-* Spanish - elementary
+* Spanish - intermediate
 

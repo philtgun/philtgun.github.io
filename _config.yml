@@ -12,6 +12,7 @@ author: Philip Tovstogan
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  About: /
   Blog: blog
   Publications: publications
   CV: cv
@@ -47,7 +48,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-  youtube: UCJLTBG_tTEtiZAkqGLXmpwQ
+  youtube: channel/UCJLTBG_tTEtiZAkqGLXmpwQ
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
