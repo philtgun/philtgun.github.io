@@ -3,7 +3,7 @@ layout: page
 show-avatar: true
 title: Philip Tovstogan
 subtitle: Researcher, developer, musician, game master
-bigimg: 
+cover-img: 
   - "/img/covers/montserrat.jpg": Montserrat, Barcelona, 2018
   - "/img/covers/neiwan.jpg": 內灣 (NeiWan), Taiwan, 2013
 
@@ -25,10 +25,10 @@ Currently I have some articles in my [blog](/blog) and my full [CV](/cv). If you
   	<strong>M. Sc.</strong> (2018) in <a href="https://www.upf.edu/web/smc">Sound an Music Computing</a> at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-  	<strong>M. Sc.</strong> (2015) in <a href="http://eecsigp.nctu.edu.tw/">Electrical Engineering and Computer Science</a> at <a href="http://www.nctu.edu.tw/en/">National Chiao Tung University</a>
+  	<strong>M. Sc.</strong> (2015) in <a href="http://eecsigp.nctu.edu.tw/">Electrical Engineering and Computer Science</a> at <a href="http://nctu.edu.tw/en/">National Chiao Tung University</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-  	<strong>B. Sc.</strong> (2012) in <a href="http://www.cs.nctu.edu.tw/cswebsite/">Computer Science</a>, <a href="http://www.nctu.edu.tw/en/">National Chiao Tung University</a>
+  	<strong>B. Sc.</strong> (2012) in <a href="http://www.cs.nctu.edu.tw/cswebsite/">Computer Science</a>, <a href="http://nctu.edu.tw/en/">National Chiao Tung University</a>
   </li>
 </ul>
 
@@ -43,10 +43,10 @@ Currently I have some articles in my [blog](/blog) and my full [CV](/cv). If you
   	<strong>R&D Engineer</strong> (2016-2017) at <a href="https://www.bovicloud.com/">Bovia</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
-  	<strong>Software Developer</strong> (part-time 2014-2016) at <a href="https://www.itri.org.tw/eng/">Industrial Technology Research Institute</a>
+  	<strong>Software Developer</strong> (part-time 2014-2016) at <a href="https://www.itri.org.tw/english/">Industrial Technology Research Institute</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
-  	<strong>Software Developer</strong> (part-time 2011-2012) at <a href="http://www.changingtec.com/">Changingtec</a>
+  	<strong>Software Developer</strong> (part-time 2011-2012) at <a href="https://www.changingtec.com/EN/">Changingtec</a>
   </li>
 </ul>
 

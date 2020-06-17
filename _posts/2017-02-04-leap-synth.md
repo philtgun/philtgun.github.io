@@ -3,7 +3,7 @@ layout: post
 title: LEAP Synthesizer in Pure Data
 tags: [music, portfolio, linux]
 comments: true
-bigimg: /img/posts/leap-synth.jpg
+cover-img: /img/posts/leap-synth.jpg
 ---
 
 To make up for the missed month, here is another post that finally came out of drafts on a similar topic.

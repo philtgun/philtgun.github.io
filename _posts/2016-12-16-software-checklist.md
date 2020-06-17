@@ -3,7 +3,7 @@ layout: post
 title: Software Checklist
 tags: [general, software]
 comments: true
-bigimg: 
+cover-img: 
   - "/img/posts/software-checklist.jpg": "Photo by Liz West"
 ---
 

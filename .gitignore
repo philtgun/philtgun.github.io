@@ -8,3 +8,5 @@ _site
 Thumbs.db
 ehthumbs.db
 .directory
+
+beautiful-jekyll-theme-*.gem
