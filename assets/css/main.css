@@ -123,6 +123,10 @@ img {
   margin-top: -1.5625rem;
 }
 
+.spaced {
+  margin-bottom: 0.8rem;
+}
+
 /* --- Navbar --- */
 
 .navbar-custom {

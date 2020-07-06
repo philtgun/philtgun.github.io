@@ -56,8 +56,8 @@ I am currently a predoctoral researcher in [Music Technology Group](https://www.
 ## Interests
 
 <ul class="fa-ul">
-  <li><span class="fa-li"><i class="fas fa-music"></i></span> Playing keyboard, singing (been in rock band in Taiwan)</li>
+  <li><span class="fa-li"><i class="fas fa-music"></i></span> Playing keyboard, singing (rock band in Taiwan and more)</li>
   <li><span class="fa-li"><i class="fas fa-dice-d20"></i></span> DMing and playing Dungeons & Dragons for over 10 years, and board games in general</li>
   <li><span class="fa-li"><i class="fas fa-hiking"></i></span> Hiking, travelling, enjoying nature, swimming, yoga</li>
-  <li><span class="fa-li"><i class="fas fa-asterisk"></i></span> And many other things like videogames, crafting, cooking, DIY</li>
+  <li><span class="fa-li"><i class="fas fa-asterisk"></i></span> And many other things like videogames, crafting, cooking, origami</li>
 </ul>
