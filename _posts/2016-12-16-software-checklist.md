@@ -54,7 +54,7 @@ Packages that I install on Linux-based systems and Mac that have some kind of pa
 
 ### Cowsay & Fortune
 
-![Isn't it adorable?](/img/software/cowsay_fortune.png)
+![Isn't it adorable?](/img/software/cowsay_fortune.png){: .mx-auto .d-block :}
 
 Every time you open your console, you will be greeted with wisdom from a cow. Installing it is as easy as installing those two packages and editing `.bashrc`.
 
@@ -64,11 +64,11 @@ $ echo "fortune | cowsay" >> ~/.bashrc
 ```
 
 ### Steam Locomotive
-![What typo in ls can lead to](/img/software/sl.gif)
+![What typo in ls can lead to](/img/software/sl.gif){: .mx-auto .d-block :}
 
 It depends on a person, but for me, a simple typo can sometimes help to relieve stress and relax during work/coding. Again, available from your favorite package manager.
 
 ### TheFuck console helper
-![Example from GitHub repo](https://raw.githubusercontent.com/nvbn/thefuck/master/example.gif)
+![Example from GitHub repo](https://raw.githubusercontent.com/nvbn/thefuck/master/example.gif){: .mx-auto .d-block :}
 
 However hilarious and mean this program may seem, it can be customized and configured from bottom up. Don't want to curse? Change it to "please". Don't want the addition of sudo before commands? Disable it! Visit [github page](https://github.com/nvbn/thefuck) for all info.

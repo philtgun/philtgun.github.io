@@ -45,15 +45,15 @@ $ sudo leapd
 
 You should see a new icon in your system's tray. It might actually happen that there will be no icon, just an empty space, but it should be intractable anyway. Right click on it and open Settings.
 
-![No Icon Bug](/img/leap/no-icon.png){: .center-block :}
+![No Icon Bug](/img/leap/no-icon.png){: .mx-auto .d-block :}
 
-![Settings](/img/leap/context-settings.png){: .center-block :}
+![Settings](/img/leap/context-settings.png){: .mx-auto .d-block :}
 
 Go to *Troubleshooting* tab in Leap Motion Control Panel and click on *Diagnostic Visualizer* to see if everything is working.
 
-![Control Panel](/img/leap/control-panel.png){: .center-block :}
+![Control Panel](/img/leap/control-panel.png){: .mx-auto .d-block :}
 
-![Diagnostic Visualizer](/img/leap/diagnostic-visualizer.png){: .center-block :}
+![Diagnostic Visualizer](/img/leap/diagnostic-visualizer.png){: .mx-auto .d-block :}
 
 Now if you don't want to start `leapd` each time manually, you can create a systemd service file for it: `/etc/systemd/system/leapd.service` (check your executable path with `which leap`):
 
@@ -102,19 +102,19 @@ $ sudo apt-get install pd-extended
 
 For more details on installation [check official website](https://puredata.info/docs/faq/debian). Test your audio setup by running PD and going to *Media* > *Test Audio and MIDI*. In the new window (right on the picture) check if you can make some sound (see test tones). If not, check your audio settings (bottom left on the picture). Usually, ALSA engine works pretty good on Debian based systems, so select it in the menu, and select proper output device in *Audio Settings*. If no options work for your setup, check the forums, or use more advanced [Jack](http://www.jackaudio.org/) audio engine. Note: although most of Linux music software works with Jack out of the box, you might need to reconfigure your system's audio players, browsers or other software.
 
-![PD setup](/img/leap/pd-setup-ed.png){: .center-block :}
+![PD setup](/img/leap/pd-setup-ed.png){: .mx-auto .d-block :}
 
 ## Integration
 
 If you are new to PD, the most important things here are *objects*. You can have a signal generator, output, input, and a lot of other objects making the core of your patch. The most simple PD patch consists of sine wave oscillator hooked up into the output. There is [a free book for beginners](http://www.pd-tutorial.com/) as well as [comprehensive documentation](https://puredata.info/docs) on PD, so if you want, you can dig deep into it. Although I would recommend learning [Max](https://cycling74.com/products/max/) because it has much more functionality and is more user-friendly, it is not yet available on Linux.
 
-![PD simple patch](/img/leap/pd-osc.png){: .center-block :}
+![PD simple patch](/img/leap/pd-osc.png){: .mx-auto .d-block :}
 
 So now we need to integrate LEAP into PD. Thankfully [Chikashi Miyama](http://www.chikashi.net/) have developed a [plugin](http://puredatajapan.info/?page_id=1514) that does exactly what we need. Unfortunately for me, there was no binary file for Linux available for download, only source code, so I had to compile it myself using [flext](https://github.com/grrrr/flext) written by [Thomas Grill](http://grrrr.org/). Fortunately for those of you on 64-bit Linux reading this post [here](/files/pd/leapmotion.pd_linux) you can download binary PD plugin.
 
 Now you can try creating *leapmotion* object in PD. Make sure it is in the same directory as your new .pd file and insert an object (*Put* > *Object*). Type *leapmotion* and click somewhere else inside the window. 
 
-![Initial test](/img/leap/pd-leap0.png){: .center-block :}
+![Initial test](/img/leap/pd-leap0.png){: .mx-auto .d-block :}
 
 If you see no errors in console, congratulations, your PD found Leap SDK (highly unlikely). If you see an error in console similar to mine, it means PD recognized *leapmotion* as a plugin, but couldn't load it because of `undefined symbol: _ZTIN4Leap9InterfaceE`. In other words, it didn't find the implementation for LEAP interface. And that's where SDK comes into play.
 
@@ -124,13 +124,13 @@ The last step is to utilize Leap SDK to connect the actual device to PD plugin. 
 LD_PRELOAD=/path/to/LeapSDK/lib/x64/libLeap.so puredata file.pd
 ```
 
-![Success](/img/leap/pd-leap1.png){: .center-block :}
+![Success](/img/leap/pd-leap1.png){: .mx-auto .d-block :}
 
 If you see no errors in console, like on the picture above, congratulations, everything is working now. If not, check if Leap is connected, service is running `systemctl status leapd`, troubleshoot it with *LeapControlPanel*. 
 
 Now we can create a [simple patch](/files/pd/leap-synth.pd) to change the pitch of sine wave with a wave of a hand. I will not go into details why it is designed in exactly this way, but I left some comments to understand the overall structure.
 
-![Synth](/img/leap/pd-leap2.png){: .center-block :}
+![Synth](/img/leap/pd-leap2.png){: .mx-auto .d-block :}
 
 You can find more patch examples in PD-Japan [blog post](http://puredatajapan.info/?page_id=1514) zip file for Mac. 
 
