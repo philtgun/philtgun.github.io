@@ -495,7 +495,6 @@ footer .footer-custom-content {
   width: 12rem;
   margin-top: -2.1875rem;
   filter: grayscale(90%);
-  object-fit: cover;
 }
 .post-image:hover {
   filter: grayscale(0%);
@@ -504,6 +503,7 @@ footer .footer-custom-content {
   border-radius: 6.25rem;
   height: 12rem;
   width: 12rem;
+  object-fit: cover;
 }
 .post-preview .post-read-more {
   /*font-weight: 800;*/
