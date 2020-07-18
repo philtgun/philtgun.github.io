@@ -10,7 +10,7 @@ This is one of the posts dedicated to old projects of mine that I deem as cool a
 
 This class was basically teaching how to manipulate sound in [Max software](https://cycling74.com/products/max/) starting from sine waves and finishing with filters. It was aimed at musicians, not engineers, but still, some important [DSP](https://en.wikipedia.org/wiki/Digital_signal_processing) concepts were introduced and explained from the mathematical point of view (sampling, time domain vs frequency domain). I'd say that learning Max and playing with it helps to understand some fundamental concepts of *digital sound design*, synthesis and how signal flows in audio processors, so if you are interested in that, definitely grab a [trial of Max (30 days)](https://cycling74.com/downloads/#.WJWRIyF96Ht) and go watch some tutorials on youtube to get into it. I definitely recommend [dude837's youtube channel](https://www.youtube.com/channel/UCHen0AQzqOMaPbpjYBhfsTA), he has *loads* of videos from beginner up to advanced level.
 
-## My Final Project
+## My final project
 
 {% include youtube.html id='_dxFC48-V2o' %}
 
