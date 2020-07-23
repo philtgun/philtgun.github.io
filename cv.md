@@ -10,7 +10,8 @@ show-avatar: true
 <a href="#publications" class="btn btn-primary">Publications</a>
 <a href="#work" class="btn btn-primary">Work</a> -->
 
-## Education {#education}  
+## Education {#education}
+
 * {: .spaced :} **Doctor of Philosophy** (**in-progress** 2018-2021)  
   [Audio Signal Processing Lab](https://www.upf.edu/web/mtg/audio-signal-processing-lab), [Music Technology Group](https://www.upf.edu/web/mtg) as part of [MIP-Frontiers](https://mip-frontiers.eu/) training network  
   [Universitat Pompeu Fabra](https://www.upf.edu/), Barcelona, Spain  

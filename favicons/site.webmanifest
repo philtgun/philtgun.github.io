@@ -1,14 +1,15 @@
 {
     "name": "Philip Tovstogan",
+    "short_name": "Philip Tovstogan",
     "icons": [
         {
-            "src": "/favicons/android-chrome-192x192.png?v=rM3bzGqQJK",
+            "src": "/favicons/android-chrome-192x192.png?v=WG2K9vY3aG",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/favicons/android-chrome-256x256.png?v=rM3bzGqQJK",
-            "sizes": "256x256",
+            "src": "/favicons/android-chrome-512x512.png?v=WG2K9vY3aG",
+            "sizes": "512x512",
             "type": "image/png"
         }
     ],
