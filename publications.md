@@ -6,7 +6,7 @@ show-avatar: true
 
 ## Conferences
 
-* {: .spaced :} **Web Interface for Exploration of Latent and Tag Spaces in Music Auto-Tagging**  
+* {: .spaced :} **Web Interface for Exploration of Latent and Tag Spaces in Music Auto-Tagging** [<i class="fas fa-link"></i>](/2020/07/18/music-explore/) [<i class="fas fa-file-pdf"></i>](https://repositori.upf.edu/bitstream/handle/10230/45186/tovstogan_ml4md_web.pdf)  
   Tovstogan P., Serra X., and Bogdanov D.  
   *Machine Learning for Media Discovery Workshop (ML4MD), International Conference on Machine Learning (ICML), Vienna, Austria, 2020*
 * {: .spaced :} **Da-TACOS: A Dataset for Cover Song Identification and Understanding** [<i class="fas fa-link"></i>](https://mtg.github.io/da-tacos/) [<i class="fas fa-file-pdf"></i>](http://archives.ismir.net/ismir2019/paper/000038.pdf)  
