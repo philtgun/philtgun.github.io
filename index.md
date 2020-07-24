@@ -4,10 +4,11 @@ show-avatar: true
 title: Philip Tovstogan
 subtitle: Researcher, developer, musician, game master
 cover-img: 
-  - "/img/covers/montserrat.jpg": Montserrat, Barcelona, 2018
+  - "/img/covers/montserrat.jpg": Montserrat, Barcelona, Spain, 2018
   - "/img/covers/neiwan.jpg": 內灣 (NeiWan), Taiwan, 2013
-  - "/img/covers/asturias.jpg": Picos de Europa, Asturias, 2019
-
+  - "/img/covers/asturias.jpg": Picos de Europa, Asturias, Sapin, 2019
+  - "/img/covers/antibes.jpg": Cap d'Antibes from plane, France, 2019
+  - "/img/covers/nuria.jpg": Nuria, border between Spain and France, 2018
 ---
 
 I am currently a predoctoral researcher in [Music Technology Group](https://www.upf.edu/web/mtg/) in [Universitat Pompeu Fabra](https://upf.edu/). My topic is about **exploration systems for new music discovery**, research interests include **music recommendation systems**, **deep learning** and **information theory**. There are some articles in my [blog](/blog), or you can read my [full CV](/cv). If you want to contact me, tweet [@philtgun](https://twitter.com/intent/tweet?text=@philtgun) or write me an email at _philip.tovstogan (at) upf.edu_. 
