@@ -97,23 +97,7 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-# old <- probably need to delete
-# navbar-col: "#333333"
-# navbar-text-col: 
-# navbar-children-col: "#333333"
-# page-col: "#FFFFFF"
-# link-col:
-# hover-col: "#006F94"
-# footer-col: "#F5F5F5"
-# footer-text-col: "#777777"
-# footer-link-col: "#333333"
-
-# my changes
-# navbar-col: "#333333"
-# navbar-text-col: "#FFFFFF"
-# navbar-border-col: "#333333" # "#EAEAEA"
-
-# next three lines changed in daattali
+# my navbar colors
 navbar-col: "#333333"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#333333"
