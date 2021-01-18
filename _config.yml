@@ -57,7 +57,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  googlescholar: zas3jJ0AAAAJ
+  google-scholar: zas3jJ0AAAAJ
   orcid: 0000-0002-0889-7209
 
 quote: Inspire and be inspired
@@ -97,19 +97,45 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-# my navbar colors
+# Light mode:
+# foreground-primary: #404040
+# background-primary: #FFFFFF
+# foreground-secondary: "#404040"
+# background-secondary: #EAEAEA
+
+# Dark mode:
+# foreground-primary: #D0D0D0
+# background-primary: #252525
+# foreground-secondary: "#888888"
+# background-secondary #333333
+
+# navbar stays the same always
 navbar-col: "#333333"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#333333"
 
-page-col: "#FFFFFF"
-text-col: "#404040"
+page-col: "#FFFFFF"  # b-p
+secondary-col: "#EAEAEA"  # b-s
+text-col: "#404040"  # f-p
+
+page-col-dark: "#252525"  # b-p
+secondary-col-dark: "#333333"  # b-s
+text-col-dark: "#F0F0F0"  # f-p
+
+# links stay the same
 link-col: "#008AFF"
 hover-col: "#0085A1"
 
-footer-col: "#EAEAEA"
+footer-col: "#EAEAEA" # b-s
+footer-border-col: "#EAEAEA" # b-s
+footer-link-col: "#404040" # f-s
+
+footer-col-dark: "#333333" # b-s
+footer-border-col-dark: "#333333" # b-s
+footer-link-col-dark: "#888888" # f-s
+
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 
@@ -152,7 +178,7 @@ gtag: "UA-38651526-5"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-disqus: "philtgun-me"
+# disqus: "philtgun-me"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""

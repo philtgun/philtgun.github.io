@@ -1,0 +1,43 @@
+---
+layout: null
+---
+
+.darkmode {
+  color: {{ site.text-col-dark }};
+  background-color: {{ site.page-col-dark }};
+}
+
+.darkmode footer {
+  border-top-color: {{ site.footer-border-col-dark }};
+  background-color: {{ site.footer-col-dark }};
+}
+
+.darkmode footer a {
+  color: {{ site.footer-link-col-dark }};
+}
+
+.darkmode .post-preview a {
+  color: {{ site.text-col-dark }};
+}
+
+.darkmode .blog-tags span {
+  color: {{ site.text-col-dark }};
+}
+
+.darkmode .blog-tags a {
+  color: {{ site.text-col-dark }};
+}
+
+.darkmode .blog-tags a:hover {
+  color: {{ site.text-col-dark }};
+  border-color: {{ site.text-col-dark }};
+}
+
+.darkmode .pagination .page-item .page-link {
+  background-color: {{ site.secondary-col-dark }};
+  color: {{ site.text-col-dark }};
+}
+
+.darkmode code {
+  background-color: {{ site.secondary-col-dark }};
+}

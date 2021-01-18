@@ -383,7 +383,7 @@ img {
 
 footer {
   padding: 1.875rem 0;
-  border-top: 1px #EAEAEA solid;
+  border-top: 1px {{ site.footer-border-col | default: "#EAEAEA" }} solid;
   margin-top: 3.125rem;
   font-size: 0.875rem;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
@@ -804,7 +804,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   /*font-weight: 800;*/
   letter-spacing: 1px;
   padding: 0.625rem 0.3125rem;
-  background-color: #FFF;
+  background-color: {{ site.secondary-col | default: "#FFFFFF" }};
   border-radius: 0;
   color: {{ site.text-col | default: "#404040" }};
 }
@@ -820,7 +820,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   background-color: {{ site.hover-col | default: "#0085A1" }};
 }
 
-/* --- Tables --- */
+/* --- Tables --- not updated dor dark mode! */
 
 table {
   padding: 0;
@@ -861,7 +861,7 @@ table tr td :last-child {
 code {
   padding: 0.125rem 0.25rem;
   color: #c7254e;
-  background-color: #f9f2f4;
+  background-color: {{ site.secondary-col | default: "#F9F2F4" }};
   border-radius: 0.25rem;
 }
 
@@ -935,7 +935,7 @@ pre {
   margin-top: 1.875rem;
 }
 
-/* --- Notification boxes --- */
+/* --- Notification boxes --- not updated for dark mode! */
 .box-note,
 .box-warning,
 .box-error,

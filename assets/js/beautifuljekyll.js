@@ -27,6 +27,18 @@ var BeautifulJekyllJS = {
 
     // show the big header image
     BeautifulJekyllJS.initImgs();
+
+    // Philip
+    // get previous darkmode preference or detect os darkmode settings
+    var darkmode = JSON.parse(window.localStorage.getItem("darkmode")) || (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
+    window.localStorage.setItem("darkmode", JSON.stringify(darkmode))
+    $("#switch-darkmode").prop("checked", darkmode)
+    if (darkmode) {
+      $("body").addClass("darkmode");
+    }
+    $("#switch-darkmode").change(function() {
+      $("body").toggleClass("darkmode");      
+    });
   },
 
   initNavbar : function() {
