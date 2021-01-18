@@ -71,9 +71,9 @@ quote: Inspire and be inspired
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -123,7 +123,8 @@ secondary-col-dark: "#333333"  # b-s
 text-col-dark: "#F0F0F0"  # f-p
 
 # links stay the same
-link-col: "#008AFF"
+link-col: "#0076DA"
+link-col-dark: "#3AC0FF"
 hover-col: "#0085A1"
 
 footer-col: "#EAEAEA" # b-s

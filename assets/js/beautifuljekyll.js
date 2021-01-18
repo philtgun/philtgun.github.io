@@ -30,14 +30,19 @@ var BeautifulJekyllJS = {
 
     // Philip
     // get previous darkmode preference or detect os darkmode settings
-    var darkmode = JSON.parse(window.localStorage.getItem("darkmode")) || (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
-    window.localStorage.setItem("darkmode", JSON.stringify(darkmode))
-    $("#switch-darkmode").prop("checked", darkmode)
+    var darkmode = JSON.parse(window.localStorage.getItem("darkmode"))
+    if (darkmode === null) {
+      darkmode = (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
+    }
     if (darkmode) {
       $("body").addClass("darkmode");
     }
-    $("#switch-darkmode").change(function() {
-      $("body").toggleClass("darkmode");      
+
+    // bind the nav switch button
+    $("#switch-darkmode").click(function() {
+      $("body").toggleClass("darkmode");
+      darkmode = !darkmode;
+      window.localStorage.setItem("darkmode", JSON.stringify(darkmode))
     });
   },
 

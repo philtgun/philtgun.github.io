@@ -7,6 +7,10 @@ layout: null
   background-color: {{ site.page-col-dark }};
 }
 
+.darkmode a {
+  color: {{ site.link-col-dark }};
+}
+
 .darkmode footer {
   border-top-color: {{ site.footer-border-col-dark }};
   background-color: {{ site.footer-col-dark }};
@@ -40,4 +44,14 @@ layout: null
 
 .darkmode code {
   background-color: {{ site.secondary-col-dark }};
+}
+
+.darkmode a.btn-primary {
+  color: {{ site.text-col-dark }};
+}
+
+
+.darkmode a:hover,
+.darkmode a:focus {
+  color: {{ site.hover-col }};  
 }
