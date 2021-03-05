@@ -16,7 +16,7 @@ show-avatar: true
   [Audio Signal Processing Lab](https://www.upf.edu/web/mtg/audio-signal-processing-lab), [Music Technology Group](https://www.upf.edu/web/mtg) as part of [MIP-Frontiers](https://mip-frontiers.eu/) training network  
   [Universitat Pompeu Fabra](https://www.upf.edu/), Barcelona, Spain  
   Supervisors: [Xavier Serra](https://www.upf.edu/web/xavier-serra), [Dmitry Bogdanov](https://dbogdanov.github.io/)  
-  Thesis: **Exploration of music collections with audio embeddings**  
+  Thesis: **Exploration of Music Collections with Audio Embeddings**  
   <small>Research, development and evaluation of visual music exploration systems using deep learning music autotaggers (genre, mood, themes).</small>
 * {: .spaced :} **Master of Science** (2017-2018), Grade: 9.0/10.0  
   [Master in Sound an Music Computing](https://www.upf.edu/web/smc), [Music Technology Group](https://www.upf.edu/web/mtg)  
