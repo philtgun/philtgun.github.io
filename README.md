@@ -18,5 +18,8 @@ Beautiful Jekyll Theme: Copyright 2020 [Dean Attali](https://deanattali.com)
 
 ## How to generate PDF of CV
 
-* Install requirements (TODO)
+* Install requirements 
+```
+sudo apt-get install pandoc texlive-xetex
+```
 * Run script `./resume-pdf/build.sh`

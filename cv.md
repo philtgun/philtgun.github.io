@@ -16,8 +16,8 @@ show-avatar: true
   [Audio Signal Processing Lab](https://www.upf.edu/web/mtg/audio-signal-processing-lab), [Music Technology Group](https://www.upf.edu/web/mtg) as part of [MIP-Frontiers](https://mip-frontiers.eu/) training network  
   [Universitat Pompeu Fabra](https://www.upf.edu/), Barcelona, Spain  
   Supervisors: [Xavier Serra](https://www.upf.edu/web/xavier-serra), [Dmitry Bogdanov](https://dbogdanov.github.io/)  
-  Thesis: **Facilitating Interactive Music Exploration**  
-  <small>Development of music exploration system using deep learning music autotaggers (genre, mood, themes) and reinforcement learning personalization.</small>
+  Thesis: **Exploration of music collections with audio embeddings**  
+  <small>Research, development and evaluation of visual music exploration systems using deep learning music autotaggers (genre, mood, themes).</small>
 * {: .spaced :} **Master of Science** (2017-2018), Grade: 9.0/10.0  
   [Master in Sound an Music Computing](https://www.upf.edu/web/smc), [Music Technology Group](https://www.upf.edu/web/mtg)  
   [Universitat Pompeu Fabra](https://www.upf.edu/), Barcelona, Spain  
@@ -69,7 +69,7 @@ show-avatar: true
 
 * {: .spaced :} **Predoctoral Researcher** (09/2018 - present)  
   [Music Technology Group](https://www.upf.edu/web/mtg), [Universitat Pompeu Fabra](https://www.upf.edu/), Barcelona, Spain  
-    * Research and development of interactive music exploration system  
+    * Research and development of interactive music exploration system
     * [AcousticBrainz.org](http://acousticbrainz.org/): support of new features relevant to the research
 
 * {: .spaced :} **Software Developer** (01/2018 - 08/2018)  
