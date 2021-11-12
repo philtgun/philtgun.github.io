@@ -17,7 +17,7 @@ I am currently a predoctoral researcher in [Music Technology Group](https://www.
 
 <ul class="fa-ul">
   <li><span class="fa-li"><i class="fas fa-spinner fa-pulse"></i></span>
-  	<strong>Ph. D.</strong> (expected 2021) at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a> as part of <a href="https://mip-frontiers.eu/">MIP-Frontiers</a> network
+  	<strong>Ph. D.</strong> (expected 2022) at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a> as part of <a href="https://mip-frontiers.eu/">MIP-Frontiers</a> network
   </li>
   <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
   	<strong>M. Sc.</strong> (2018) in <a href="https://www.upf.edu/web/smc">Sound an Music Computing</a> at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a>
