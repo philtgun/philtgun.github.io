@@ -23,10 +23,10 @@ I am currently a predoctoral researcher in [Music Technology Group](https://www.
   	<strong>M. Sc.</strong> (2018) in <a href="https://www.upf.edu/web/smc">Sound an Music Computing</a> at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-  	<strong>M. Sc.</strong> (2015) in <a href="http://eecsigp.nctu.edu.tw/">Electrical Engineering and Computer Science</a> at <a href="http://nctu.edu.tw/en/">National Chiao Tung University</a>
+  	<strong>M. Sc.</strong> (2015) in <a href="https://eecsigp.nycu.edu.tw/">Electrical Engineering and Computer Science</a> at <a href="https://www.nycu.edu.tw/en/">National Yang Ming Chiao Tung University</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-  	<strong>B. Sc.</strong> (2012) in <a href="http://www.cs.nctu.edu.tw/cswebsite/">Computer Science</a>, <a href="http://nctu.edu.tw/en/">National Chiao Tung University</a>
+  	<strong>B. Sc.</strong> (2012) in <a href="https://www.cs.nycu.edu.tw/">Computer Science</a>, <a href="https://www.nycu.edu.tw/en/">National Yang Ming Chiao Tung University</a>
   </li>
 </ul>
 

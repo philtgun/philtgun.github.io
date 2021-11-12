@@ -28,4 +28,4 @@ show-avatar: true
   *Universitat Pompeu Fabra, Barcelona, Spain, 2018*
 * {: .spaced :} **Optimization of Video Streaming Using Video Quality Estimation and LMRC Channel Coding** [<i class="fas fa-link"></i>](https://ir.nctu.edu.tw/handle/11536/127661) [<i class="fas fa-file-pdf"></i>](/files/theses/optimization-of-video-streaming-using-video-quality-estimation-and-lmrc-channel-coding.pdf)  
   Tovstogan P.  
-  *National Chiao Tung University, Hsinchu, Taiwan, 2015*
+  *National Yang Ming Chiao Tung University, Hsinchu, Taiwan, 2015*

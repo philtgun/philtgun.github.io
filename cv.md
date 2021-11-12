@@ -25,15 +25,15 @@ show-avatar: true
   Thesis: **Exploring Music Similarity with AcousticBrainz**  
   <small>Implementation, evaluation and improvement of existing state-of-the art music similarity algorithms in the context of [AcousticBrainz](https://acousticbrainz.org/).</small>
 * {: .spaced :} **Master of Science** (2012-2015), GP: 4.1  
-  [Electrical Engineering and Computer Science International Graduate Program](http://eecsigp.nctu.edu.tw/)  
-  [National Chiao Tung University](http://www.nctu.edu.tw/en/), Hsinchu, Taiwan  
-  Supervisor: [Hsu-Feng Hsiao](http://www.cs.nctu.edu.tw/cswebsite/members/detail/hillhsiao)  
+  [Electrical Engineering and Computer Science International Graduate Program](https://eecsigp.nycu.edu.tw/)  
+  [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/en/), Hsinchu, Taiwan  
+  Supervisor: [Hsu-Feng Hsiao](https://www.cs.nycu.edu.tw/members/detail/hillhsiao)  
   Thesis: **Optimization of Video Streaming Using Video Quality Estimation and LMRC Channel Coding**
   <small>Optimization of Layer-aligned Multi-priority rateless codes (LMRC) for H.265 video streaming over mobile networks. Development of probabilistic model to gauge impact of channel conditions on frame loss patterns.</small>
 * {: .spaced :} **Bachelor of Science** (2008-2012), GP: 4.09  
-  [Department of Computer Science](http://www.cs.nctu.edu.tw/cswebsite/), Multimedia & Network Engineering Program  
-  [National Chiao Tung University](http://www.nctu.edu.tw/en/), Hsinchu, Taiwan  
-  Supervisor: [Chun-Jen Tsai](http://www.cs.nctu.edu.tw/cswebsite/members/detail/cjtsai)  
+  [Department of Computer Science](https://www.cs.nycu.edu.tw/), Multimedia & Network Engineering Program  
+  [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/en/), Hsinchu, Taiwan  
+  Supervisor: [Chun-Jen Tsai](https://www.cs.nycu.edu.tw/members/detail/cjtsai)  
   Thesis: **Design and Implementation of Perceptual Audio Coding Models**  
   <small>Survey of different MP3 codecs (LAME, Fraunhofer, GoGo, Apple) and analysis of perceptual audio quality degradations for different genres. Proposal of MP3 codec that leverages genre-specific audio characteristics to tune its psychoacoustic model.</small>
 
