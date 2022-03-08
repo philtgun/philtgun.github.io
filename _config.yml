@@ -15,9 +15,10 @@ author: Philip Tovstogan
 
 navbar-links:
   About: /
+  CV: /cv.pdf
   Blog: blog
   Publications: publications
-  CV: cv
+  Long CV: cv
 
 # --- Logo --- #
 

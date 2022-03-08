@@ -2,7 +2,7 @@
 layout: page
 show-avatar: true
 title: Philip Tovstogan
-subtitle: Researcher, developer, musician, game master
+subtitle: Researcher, developer, engineer, musician
 cover-img: 
   - "/img/covers/montserrat.jpg": Montserrat, Barcelona, Spain, 2018
   - "/img/covers/neiwan.jpg": 內灣 (NeiWan), Taiwan, 2013
@@ -11,22 +11,22 @@ cover-img:
   - "/img/covers/nuria.jpg": Nuria, border between Spain and France, 2018
 ---
 
-I am currently a predoctoral researcher in [Music Technology Group](https://www.upf.edu/web/mtg/) in [Universitat Pompeu Fabra](https://upf.edu/). My topic is about **exploration systems for new music discovery**, research interests include **music recommendation systems**, **deep learning** and **information theory**. There are some articles in my [blog](/blog), or you can read my [full CV](/cv). If you want to contact me, tweet [@philtgun](https://twitter.com/intent/tweet?text=@philtgun) or write me an email at _philip.tovstogan (at) upf.edu_. 
+I am currently a predoctoral researcher in [Music Technology Group](https://www.upf.edu/web/mtg/) in [Universitat Pompeu Fabra](https://upf.edu/). My topic is about exploration systems for new music discovery, research interests include music auto-tagging, music recommendation, and deep learning. There are some articles in my [blog](/blog), here is my [CV](/cv.pdf) (extended version [here](/cv)). To contact me, tweet [@philtgun](https://twitter.com/intent/tweet?text=@philtgun) or connect with me on [LinkedIn](https://linkedin.com/in/philtgun). 
 
 ## Education
 
 <ul class="fa-ul">
   <li><span class="fa-li"><i class="fas fa-spinner fa-pulse"></i></span>
-  	<strong>Ph. D.</strong> (expected 2022) at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a> as part of <a href="https://mip-frontiers.eu/">MIP-Frontiers</a> network
+  	<strong>Ph. D.</strong> (2018–2022 expected) at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a>, <a href="https://mip-frontiers.eu/">MIP-Frontiers</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-  	<strong>M. Sc.</strong> (2018) in <a href="https://www.upf.edu/web/smc">Sound an Music Computing</a> at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a>
+  	<strong>M. Sc.</strong> (2017–2018) in <a href="https://www.upf.edu/web/smc">Sound an Music Computing</a> at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-  	<strong>M. Sc.</strong> (2015) in <a href="https://eecsigp.nycu.edu.tw/">Electrical Engineering and Computer Science</a> at <a href="https://www.nycu.edu.tw/en/">National Yang Ming Chiao Tung University</a>
+  	<strong>M. Sc.</strong> (2012–2015) in <a href="https://eecsigp.nycu.edu.tw/">Electrical Engineering and Computer Science</a> at <a href="https://www.nycu.edu.tw/en/">National Yang Ming Chiao Tung University</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-  	<strong>B. Sc.</strong> (2012) in <a href="https://www.cs.nycu.edu.tw/">Computer Science</a>, <a href="https://www.nycu.edu.tw/en/">National Yang Ming Chiao Tung University</a>
+  	<strong>B. Sc.</strong> (2008–2012) in <a href="https://www.cs.nycu.edu.tw/">Computer Science</a>, <a href="https://www.nycu.edu.tw/en/">National Yang Ming Chiao Tung University</a>
   </li>
 </ul>
 
@@ -35,30 +35,36 @@ I am currently a predoctoral researcher in [Music Technology Group](https://www.
 
 <ul class="fa-ul">
   <li><span class="fa-li"><i class="fas fa-flask"></i></span>
-    <strong>Predoctoral Researcher</strong> (2018 - present) at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a>
+    <strong>Researcher</strong> (2021, internship) at <a href="https://jamendo.com">Jamendo</a>
+  </li>
+  <li><span class="fa-li"><i class="fas fa-flask"></i></span>
+    <strong>Predoctoral Researcher</strong> (2018–2021) at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a>
+  </li>
+  <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
+    <strong>Software Developer</strong> (2018, internship) at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
   	<strong>Software Developer</strong> (2017) at <a href="http://lyravr.com/">LyraVR</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
-  	<strong>R&D Engineer</strong> (2016 - 2017) at <a href="https://www.bovicloud.com/">Bovia</a>
+  	<strong>R&D Engineer</strong> (2016–2017) at <a href="https://www.bovicloud.com/">Bovia</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
-  	<strong>Software Developer</strong> (part-time 2014 - 2016) at <a href="https://www.itri.org.tw/english/">Industrial Technology Research Institute</a>
+  	<strong>Software Developer</strong> (2014–2016) at <a href="https://www.itri.org.tw/english/">Industrial Technology Research Institute</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-flask"></i></span>
-    <strong>Research and Teaching Assistant</strong> (2012 - 2014) at <a href="https://www.cs.nctu.edu.tw/research/multimedia-communication">Network and Information Processing Lab</a>
+    <strong>Research and Teaching Assistant</strong> (2012–2014) at <a href="https://www.cs.nctu.edu.tw/research/multimedia-communication">Network and Information Processing Lab</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
-  	<strong>Software Developer</strong> (part-time 2011 - 2012) at <a href="https://www.changingtec.com/EN/">Changingtec</a>
+  	<strong>Software Developer</strong> (2011–2012, internship) at <a href="https://www.changingtec.com/EN/">ChangingTec</a>
   </li>
 </ul>
 
 ## Interests
 
 <ul class="fa-ul">
-  <li><span class="fa-li"><i class="fas fa-music"></i></span> Playing keyboard, singing (rock band in Taiwan and more)</li>
-  <li><span class="fa-li"><i class="fas fa-dice-d20"></i></span> DMing and playing Dungeons & Dragons for over 10 years, and board games in general</li>
+  <li><span class="fa-li"><i class="fas fa-music"></i></span> Playing keyboard, singing (university club rock band in Taiwan and more)</li>
+  <li><span class="fa-li"><i class="fas fa-dice-d20"></i></span> DMing and playing Dungeons & Dragons for over 10 years, board games</li>
   <li><span class="fa-li"><i class="fas fa-hiking"></i></span> Hiking, travelling, enjoying nature, swimming, yoga</li>
-  <li><span class="fa-li"><i class="fas fa-asterisk"></i></span> And many other things like videogames, crafting, cooking, origami</li>
+  <li><span class="fa-li"><i class="fas fa-asterisk"></i></span> Videogames, crafting, cooking, origami, etc.</li>
 </ul>
