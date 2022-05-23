@@ -42,6 +42,10 @@ show-avatar: true
 
 ## Work experience
 
+* {: .spaced :} **Data Engineer** (04/2022 -- present)  
+  [Utopia Music](https://utopiamusic.com), Zug, Switzerland  
+    * Music recommendations, auto-tagging, data pipelines (Python, Flask, TensorFlow)
+
 * {: .spaced :} **Researcher**, internship (02/2021 -- 05/2021)  
   [Jamendo](https://jamendo.com), Luxembourg  
     * Extracting music embeddings with Essentia ML models for track-to-track music recommendations (Python, PostgreSQL)

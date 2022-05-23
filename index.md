@@ -34,6 +34,9 @@ I am currently a predoctoral researcher in [Music Technology Group](https://www.
 ## Work experience
 
 <ul class="fa-ul">
+  <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
+    <strong>Data Engineer</strong> (2022–present) at <a href="https://utopiamusic.com/">Utopia Music</a>
+  </li>
   <li><span class="fa-li"><i class="fas fa-flask"></i></span>
     <strong>Researcher</strong> (2021, internship) at <a href="https://jamendo.com">Jamendo</a>
   </li>
