@@ -11,25 +11,7 @@ cover-img:
   - "/img/covers/nuria.jpg": Nuria, border between Spain and France, 2018
 ---
 
-I am currently a predoctoral researcher in [Music Technology Group](https://www.upf.edu/web/mtg/) in [Universitat Pompeu Fabra](https://upf.edu/). My topic is about exploration systems for new music discovery, research interests include music auto-tagging, music recommendation, and deep learning. There are some articles in my [blog](/blog), here is my [CV](/cv.pdf) (extended version [here](/cv)). To contact me, tweet [@philtgun](https://twitter.com/intent/tweet?text=@philtgun) or connect with me on [LinkedIn](https://linkedin.com/in/philtgun). 
-
-## Education
-
-<ul class="fa-ul">
-  <li><span class="fa-li"><i class="fas fa-spinner fa-pulse"></i></span>
-  	<strong>Ph. D.</strong> (2018–2022 expected) at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a>, <a href="https://mip-frontiers.eu/">MIP-Frontiers</a>
-  </li>
-  <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-  	<strong>M. Sc.</strong> (2017–2018) in <a href="https://www.upf.edu/web/smc">Sound an Music Computing</a> at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a>
-  </li>
-  <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-  	<strong>M. Sc.</strong> (2012–2015) in <a href="https://eecsigp.nycu.edu.tw/">Electrical Engineering and Computer Science</a> at <a href="https://www.nycu.edu.tw/en/">National Yang Ming Chiao Tung University</a>
-  </li>
-  <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-  	<strong>B. Sc.</strong> (2008–2012) in <a href="https://www.cs.nycu.edu.tw/">Computer Science</a>, <a href="https://www.nycu.edu.tw/en/">National Yang Ming Chiao Tung University</a>
-  </li>
-</ul>
-
+I currently work as a Data Engineer in [Utopia Music](https://utopiamusic.com). My interests and expertise include exploration systems for new music discovery, music auto-tagging, music recommendation, and deep learning. Here is my [CV](/cv.pdf) (extended version [here](/cv)). There are also some (few) articles in my [blog](/blog), hopefully more coming soon. To contact me, tweet [@philtgun](https://twitter.com/intent/tweet?text=@philtgun) or connect with me on [LinkedIn](https://linkedin.com/in/philtgun). 
 
 ## Work experience
 
@@ -60,6 +42,23 @@ I am currently a predoctoral researcher in [Music Technology Group](https://www.
   </li>
   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
   	<strong>Software Developer</strong> (2011–2012, internship) at <a href="https://www.changingtec.com/EN/">ChangingTec</a>
+  </li>
+</ul>
+
+## Education
+
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fas fa-spinner fa-pulse"></i></span>
+  	<strong>Ph. D.</strong> (2018–2022 expected) at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a>, <a href="https://mip-frontiers.eu/">MIP-Frontiers</a>
+  </li>
+  <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
+  	<strong>M. Sc.</strong> (2017–2018) in <a href="https://www.upf.edu/web/smc">Sound an Music Computing</a> at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a>
+  </li>
+  <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
+  	<strong>M. Sc.</strong> (2012–2015) in <a href="https://eecsigp.nycu.edu.tw/">Electrical Engineering and Computer Science</a> at <a href="https://www.nycu.edu.tw/en/">National Yang Ming Chiao Tung University</a>
+  </li>
+  <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
+  	<strong>B. Sc.</strong> (2008–2012) in <a href="https://www.cs.nycu.edu.tw/">Computer Science</a>, <a href="https://www.nycu.edu.tw/en/">National Yang Ming Chiao Tung University</a>
   </li>
 </ul>
 
