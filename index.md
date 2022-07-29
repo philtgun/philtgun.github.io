@@ -48,8 +48,8 @@ I currently work as a Data Engineer in [Utopia Music](https://utopiamusic.com). 
 ## Education
 
 <ul class="fa-ul">
-  <li><span class="fa-li"><i class="fas fa-spinner fa-pulse"></i></span>
-  	<strong>Ph. D.</strong> (2018–2022 expected) at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a>, <a href="https://mip-frontiers.eu/">MIP-Frontiers</a>
+  <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
+  	<strong>Ph. D.</strong> (2018–2022) at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a>, <a href="https://mip-frontiers.eu/">MIP-Frontiers</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
   	<strong>M. Sc.</strong> (2017–2018) in <a href="https://www.upf.edu/web/smc">Sound an Music Computing</a> at <a href="https://www.upf.edu/web/mtg">Music Technology Group</a>
