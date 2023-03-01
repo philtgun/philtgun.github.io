@@ -18,7 +18,7 @@ navbar-links:
   CV: /cv.pdf
   Blog: blog
   Publications: publications
-  Long CV: cv
+  # Long CV: cv
 
 # --- Logo --- #
 

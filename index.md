@@ -11,7 +11,7 @@ cover-img:
   - "/img/covers/nuria.jpg": Nuria, border between Spain and France, 2018
 ---
 
-I currently work as a Data Engineer in [Utopia Music](https://utopiamusic.com). My interests and expertise include exploration systems for new music discovery, music auto-tagging, music recommendation, and deep learning. Here is my [CV](/cv.pdf) (extended version [here](/cv)). There are also some (few) articles in my [blog](/blog), hopefully more coming soon. To contact me, tweet [@philtgun](https://twitter.com/intent/tweet?text=@philtgun) or connect with me on [LinkedIn](https://linkedin.com/in/philtgun). 
+I currently work as a Data Engineer in [Utopia Music](https://utopiamusic.com). My interests and expertise include exploration systems for new music discovery, music auto-tagging, music recommendation, and deep learning. Here is my [CV](/cv.pdf). There are also some (few) articles in my [blog](/blog), hopefully more coming soon. To contact me, tweet [@philtgun](https://twitter.com/intent/tweet?text=@philtgun) or connect with me on [LinkedIn](https://linkedin.com/in/philtgun). 
 
 ## Work experience
 
@@ -38,7 +38,7 @@ I currently work as a Data Engineer in [Utopia Music](https://utopiamusic.com). 
   	<strong>Software Developer</strong> (2014–2016) at <a href="https://www.itri.org.tw/english/">Industrial Technology Research Institute</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-flask"></i></span>
-    <strong>Research and Teaching Assistant</strong> (2012–2014) at <a href="https://www.cs.nctu.edu.tw/research/multimedia-communication">Network and Information Processing Lab</a>
+    <strong>Research and Teaching Assistant</strong> (2012–2014) at <a href="https://www.cs.nctu.edu.tw/research/multimedia-communication">Mulitmedia Communications Lab</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
   	<strong>Software Developer</strong> (2011–2012, internship) at <a href="https://www.changingtec.com/EN/">ChangingTec</a>

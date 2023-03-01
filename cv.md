@@ -7,7 +7,7 @@ show-avatar: true
 
 ## Education
 
-* {: .spaced :} **Doctor of Philosophy** (**in-progress** 2018--2022)  
+* {: .spaced :} **Doctor of Philosophy** (2018--2022)  
   [Audio Signal Processing Lab](https://www.upf.edu/web/mtg/audio-signal-processing-lab), [Music Technology Group](https://www.upf.edu/web/mtg), [MIP-Frontiers](https://mip-frontiers.eu/)  
   [Universitat Pompeu Fabra](https://www.upf.edu/), Barcelona, Spain  
   Supervisors: [Xavier Serra](https://www.upf.edu/web/xavier-serra), [Dmitry Bogdanov](https://dbogdanov.github.io/)  
