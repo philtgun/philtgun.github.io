@@ -2,22 +2,24 @@
 layout: page
 show-avatar: true
 title: Philip Tovstogan
-subtitle: Researcher, developer, engineer, musician
+subtitle: ML/Data engineer, researcher, developer, musician
 cover-img: 
   - "/img/covers/montserrat.jpg": Montserrat, Barcelona, Spain, 2018
   - "/img/covers/neiwan.jpg": 內灣 (NeiWan), Taiwan, 2013
-  - "/img/covers/asturias.jpg": Picos de Europa, Asturias, Sapin, 2019
+  - "/img/covers/asturias.jpg": Picos de Europa, Asturias, Spain, 2019
   - "/img/covers/antibes.jpg": Cap d'Antibes from plane, France, 2019
   - "/img/covers/nuria.jpg": Nuria, border between Spain and France, 2018
+  - "/img/covers/malniu.jpg": Estany de Malniu, Girona, Spain, 2023
+  - "/img/covers/taga.jpg": Cloud Cow, El Taga, Girona, Spain, 2022
 ---
 
-I currently work as a Data Engineer in [Utopia Music](https://utopiamusic.com). My interests and expertise include exploration systems for new music discovery, music auto-tagging, music recommendation, and deep learning. Here is my [CV](/cv.pdf). There are also some (few) articles in my [blog](/blog), hopefully more coming soon. To contact me, tweet [@philtgun](https://twitter.com/intent/tweet?text=@philtgun) or connect with me on [LinkedIn](https://linkedin.com/in/philtgun). 
+I am an ML/Data engineer in Music AI with solid knowledge of data science and MIR (music information retrieval). My interests and expertise include exploration systems for new music discovery, music auto-tagging, music recommendation, and deep learning. If you are interested, take a look at my formal [CV](/cv.pdf). There are also some articles in my [blog](/blog) of various projects. If you want to contact me, the easiest way would be on [LinkedIn](https://linkedin.com/in/philtgun) or shoot me an [email](mailto:phil.tgun@gmail.com). 
 
 ## Work experience
 
 <ul class="fa-ul">
   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
-    <strong>Data Engineer</strong> (2022–present) at <a href="https://utopiamusic.com/">Utopia Music</a>
+    <strong>Data Engineer</strong> (2022–2023) at <a href="https://utopiamusic.com/">Utopia Music</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-flask"></i></span>
     <strong>Researcher</strong> (2021, internship) at <a href="https://jamendo.com">Jamendo</a>
