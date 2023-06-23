@@ -13,7 +13,7 @@ cover-img:
   - "/img/covers/taga.jpg": Cloud Cow, El Taga, Girona, Spain, 2022
 ---
 
-I am an ML/Data engineer in Music AI with solid knowledge of data science and MIR (music information retrieval). My interests and expertise include exploration systems for new music discovery, music auto-tagging, music recommendation, and deep learning. If you are interested, take a look at my formal [CV](/cv.pdf). There are also some articles in my [blog](/blog) of various projects. If you want to contact me, the easiest way would be on [LinkedIn](https://linkedin.com/in/philtgun) or shoot me an [email](mailto:phil.tgun@gmail.com). 
+I am an ML/Data engineer in Music AI with solid knowledge of data science and MIR (music information retrieval). My interests and expertise include exploration systems for new music discovery, music auto-tagging, music recommendation, and deep learning. If you are interested, take a look at my formal [CV](/cv.pdf). There are also some articles in my [blog](/blog) of various projects. If you want to contact me, the easiest way would be on [LinkedIn](https://linkedin.com/in/philtgun) or shoot me an [email](mailto:phil.tovstogan@gmail.com). 
 
 ## Work experience
 
