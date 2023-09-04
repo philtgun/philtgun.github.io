@@ -19,7 +19,10 @@ I am an ML/Data engineer in Music AI with solid knowledge of data science and MI
 
 <ul class="fa-ul">
   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
-    <strong>Data Engineer</strong> (2022–2023) at <a href="https://utopiamusic.com/">Utopia Music</a>
+    <strong>ML Engineer</strong> (2023), freelance
+  </li>
+  <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
+    <strong>Data/ML Engineer</strong> (2022–2023) at <a href="https://utopiamusic.com/">Utopia Music</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-flask"></i></span>
     <strong>Researcher</strong> (2021, internship) at <a href="https://jamendo.com">Jamendo</a>
