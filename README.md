@@ -15,11 +15,3 @@ Beautiful Jekyll Theme: Copyright 2020 [Dean Attali](https://deanattali.com)
 
 * Update dependencies `bundler update`
 * Run Jekyll locally `bundle exec jekyll serve`
-
-## How to generate PDF of CV
-
-* Install requirements 
-```
-sudo apt-get install pandoc texlive-xetex
-```
-* Run script `./resume-pdf/build.sh`
