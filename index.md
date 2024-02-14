@@ -3,7 +3,7 @@ layout: page
 show-avatar: true
 title: Philip Tovstogan
 subtitle: ML/Data engineer, researcher, developer, musician
-cover-img: 
+cover-img:
   - "/img/covers/montserrat.jpg": Montserrat, Barcelona, Spain, 2018
   - "/img/covers/neiwan.jpg": 內灣 (NeiWan), Taiwan, 2013
   - "/img/covers/asturias.jpg": Picos de Europa, Asturias, Spain, 2019
@@ -13,13 +13,16 @@ cover-img:
   - "/img/covers/taga.jpg": Cloud Cow, El Taga, Girona, Spain, 2022
 ---
 
-I am an ML/Data engineer in Music AI with solid knowledge of data science and MIR (music information retrieval). My interests and expertise include exploration systems for new music discovery, music auto-tagging, music recommendation, and deep learning. If you are interested, take a look at my formal [CV](/cv-philip-tovstogan.pdf). There are also some articles in my [blog](/blog) of various projects. If you want to contact me, the easiest way would be on [LinkedIn](https://linkedin.com/in/philtgun) or shoot me an [email](mailto:phil.tovstogan@gmail.com). 
+I am an ML/Data engineer in Music AI with solid knowledge of data science and MIR (music information retrieval). My interests and expertise include exploration systems for new music discovery, music auto-tagging, music recommendation, and deep learning. If you are interested, take a look at my formal [CV](/cv-philip-tovstogan.pdf). There are also some articles in my [blog](/blog) of various projects. If you want to contact me, the easiest way would be on [LinkedIn](https://linkedin.com/in/philtgun) or shoot me an [email](mailto:phil.tovstogan@gmail.com).
 
 ## Work experience
 
 <ul class="fa-ul">
   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
-    <strong>ML Engineer</strong> (2023), freelance
+    <strong>Senior Backend Engineer</strong> (2024) <a href="https://www.audioshake.ai/">AudioShake</a>
+  </li>
+  <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
+    <strong>ML Engineer, Consultant</strong> (2023-2024), freelance
   </li>
   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
     <strong>ML/Data Engineer</strong> (2022–2023) at <a href="https://utopiamusic.com/">Utopia Music</a>
