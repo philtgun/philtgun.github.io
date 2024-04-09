@@ -22,7 +22,7 @@ I am an ML/Data engineer in Music AI with solid knowledge of data science and MI
     <strong>Senior Backend Engineer</strong> (2024) <a href="https://www.audioshake.ai/">AudioShake</a>
   </li>
   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
-    <strong>ML Engineer, Consultant</strong> (2023-2024), freelance
+    <strong>ML Engineer</strong> (2023--2024), freelance
   </li>
   <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>
     <strong>ML/Data Engineer</strong> (2022–2023) at <a href="https://utopiamusic.com/">Utopia Music</a>
